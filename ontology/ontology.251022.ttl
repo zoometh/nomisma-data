@@ -384,9 +384,9 @@ skos:definition rdf:type owl:AnnotationProperty .
 ###  http://nomisma.org/ontology#hasObverse
 :hasObverse rdf:type owl:ObjectProperty ;
             rdfs:subPropertyOf :hasFace ;
-            rdfs:comment "Identifies a particular face of a numismatic object. Normally it will be the face carrying the represenation, badge or inscription of the issuing authority. In ancient, hand-struck coinage it is generally the lower (anvil) die. In English often known as \"heads\"."@en ;
+            rdfs:comment "Identifies a particular face of a numismatic object. Normally it will be the face carrying the representation, badge or inscription of the issuing authority. In ancient, hand-struck coinage it is generally the lower (anvil) die. In English often known as \"heads\"."@en ;
             rdfs:label "hasObverse" ;
-            skos:definition "Identifies a particular face of a numismatic object. Normally it will be the face carrying the represenation, badge or inscription of the issuing authority. In ancient, hand-struck coinage it is generally the lower (anvil) die. In English often known as \"heads\"." .
+            skos:definition "Identifies a particular face of a numismatic object. Normally it will be the face carrying the representation, badge or inscription of the issuing authority. In ancient, hand-struck coinage it is generally the lower (anvil) die. In English often known as \"heads\"." .
 
 
 ###  http://nomisma.org/ontology#hasOpeningDate
